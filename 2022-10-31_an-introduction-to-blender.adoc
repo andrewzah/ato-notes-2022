@@ -1,0 +1,9 @@
+= Scratching the [3D] Surface: An Introduction to Blender
+
+by: Jason Van Gumster, @monsterjavaguns
+
+todo for andrew: put notes from tablet here
+
+== Resources & Further Reading
+* https://www.blender.org/download/[Blender's website]
+* https://www.amazon.com/Blender-Dummies-Computer-Tech/dp/1119616964[Blender for Dummies]
